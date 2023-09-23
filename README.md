@@ -1,8 +1,8 @@
-Hi 👋 My name is Paul Allebée
-=============================
+# Hi 👋 My name is Paul Allebée
 
-Étudiant en développement web
------------------------------
+
+## Étudiant en développement web
+
 
 👨‍💻 Bonjour, je m'appelle Paul et je suis un étudiant passionné par le développement web. Mon voyage dans le monde de la programmation a débuté il y a 5 ans lorsque j'ai découvert la magie de créer des automatisations, sites web et des applications. Depuis lors, je n'ai pas regardé en arrière et je suis devenu un développeur web autodidacte déterminé.
 
