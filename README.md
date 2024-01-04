@@ -34,6 +34,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paul59-dev&show_icons=true&locale=en&layout=compact" alt="paul59-dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paul59-dev&show_icons=true&locale=en" alt="paul59-dev" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paul59-dev&" alt="paul59-dev" /></p>
