@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **Linkedin: /paulallebee**
 
-- 📄 Know about my experiences [I like learn more programming language but i would like to specilise in Java with Spring Framework for the web.](I like learn more programming language but i would like to specilise in Java with Spring Framework for the web.)
-
 - ⚡ Fun fact **I no longer have a job**
 
 <h3 align="left">Connect with me:</h3>
