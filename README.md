@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Web-PasswordManagement][https://github.com/paul59-dev/FitFlex](https://github.com/paul59-dev/FitFlex)
 
-- 🌱 I’m currently learning **Java and SpringBoot**
+- 🌱 I’m currently learning **Javascript/Backend and Go**
 
 - 🤝 I’m looking for help with **Learn Java and Frameworks**
 
