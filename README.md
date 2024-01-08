@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **Linkedin: /paulallebee**
 
-- ⚡ Fun fact **I no longer have a job**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@paul59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@paul59" height="30" width="40" /></a>
