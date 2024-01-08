@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paul59-dev&label=Profile%20views&color=0e75b6&style=flat" alt="paul59-dev" /> </p>
 
-- 🔭 I’m currently working on [Web-PasswordManagement][https://github.com/paul59-dev/Web-PasswordManagement](https://github.com/paul59-dev/Web-PasswordManagement)
+- 🔭 I’m currently working on [Web-PasswordManagement][https://github.com/paul59-dev/FitFlex](https://github.com/paul59-dev/FitFlex)
 
 - 🌱 I’m currently learning **Java and SpringBoot**
 
