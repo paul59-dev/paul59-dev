@@ -27,6 +27,5 @@
 <p><a href="https://www.buymeacoffee.com/paulallebee2"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="paulallebee2" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paul59-dev&show_icons=true&locale=en&layout=compact" alt="paul59-dev" /></p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paul59-dev&theme=tokyonight)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paul59-dev&" alt="paul59-dev" /></p>
