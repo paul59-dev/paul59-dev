@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paul Allebée</h1>
 <h3 align="center">A passionate web developer from Dunkerque, I like learn more programming language. I've been self-taught for 5 years and for the time being I have 3 mouths in compagny.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paul59-dev&label=Profile%20views&color=0e75b6&style=flat" alt="paul59-dev" /> </p>
-
 - 🌱 I’m currently learning **Javascript/Backend and Go**
 
 - 🤝 I’m looking for help with **Learn Java and Frameworks**
